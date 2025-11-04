@@ -1,10 +1,3 @@
-"alertes_entites"N8N IS HARD.
-
-Thats why I’m giving away the exact mega prompt I use to build n8n agents from scratch.
-
-This single prompt has built me 47 automation agents in the last 3 months  from research assistants to data pipelines to content schedulers.
-
-Copy/paste it in any LLM to build AI agents easily:
 
 "You are an expert n8n workflow automation architect specializing in building AI-powered agents.
 
@@ -116,4 +109,3 @@ HOW TO USE IT
 4. Get a complete, production-ready n8n workflow design
 5. Follow the implementation steps it gives you
 
-Let me know what you want to build with it?
